@@ -1,0 +1,384 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('51aba3e7-d04c-42fc-941e-fbf13e21599c')/messages(sender,subject,sentDateTime,isRead,bodyPreview,importance)",
+    "value": [
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc7HW\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsmCAAA=",
+            "sentDateTime": "2024-07-10T07:27:46Z",
+            "subject": "CSC6042:Advanced Database Systems_L01: Assignment 3 and Course Teaching Evaluation are now open",
+            "bodyPreview": "Dear students,\r\n\r\n\r\nThe third Assignment has been released. Please submit your answers via Blackboard by 5 pm, 18 July 2024.\r\n\r\nYou are also invited to participate in Course and Teaching Evaluation (CTE) for Summer Term, AY2023-2024. Please log into the O",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "洪世豪 HONG, Shihao - 220019037@link.cuhk.edu.cn",
+                    "address": "bbnoreply@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.type": "#microsoft.graph.eventMessageRequest",
+            "@odata.etag": "W/\"CwAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc64K\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsmBAAA=",
+            "sentDateTime": "2024-07-10T05:44:59Z",
+            "subject": "【SDS Topical Seminar Series】Enhancing Trust in NL2SQL Methods: Paradigms and Challenges",
+            "bodyPreview": "Dear all,\r\n\r\nYou are cordially invited to the School of Data Science Topical Seminar on Enhancing Trust in NL2SQL Methods: Paradigms and Challenges. Detailed information is as follows:\r\nSDS Topical Seminar Series\r\nTopic\r\nEnhancing Trust in NL2SQL Methods:",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "SDS Academic Events",
+                    "address": "sdsacademics@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc6wD\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsmAAAA=",
+            "sentDateTime": "2024-07-10T05:17:08Z",
+            "subject": "Notice of McDonald's Water Supply Failure 丨 麦当劳供水故障通知",
+            "bodyPreview": "Dear All,\r\n\r\nDue to a sudden failure of the water supply equipment in McDonald's at 6:30 this morning, a large area of the restaurant was flooded, resulting in the unavailability of all types of cold and hot drinks. Currently, staple food, snacks and dess",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "Administrative Services Office",
+                    "address": "aso@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc6g3\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsl-AAA=",
+            "sentDateTime": "2024-07-10T03:17:02Z",
+            "subject": "SSE Talk | #56: The Synthesis and Reactions of Ynamides / Ynamines",
+            "bodyPreview": "Dear all,\r\n\r\n\r\n\r\nYou are cordially invited to an academic seminar to be delivered by Prof. Na WU on July 18 (Thursday). Please find the details as follows.\r\n\r\n\r\nTopic: The Synthesis and Reactions of Ynamides / Ynamines\r\n\r\nTime & Date: 11:00 AM-12:00 PM, J",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "School of Science and Engineering",
+                    "address": "sse@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc6gq\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsl_AAA=",
+            "sentDateTime": "2024-07-10T03:02:45Z",
+            "subject": "【外联部x 模拟联合国协会｜中美青年领袖对话邀请】Invitation to China-US Youth Leaders Dialogue Program",
+            "bodyPreview": "【外联部x模拟联合国协会｜中美青年领袖对话邀请】 Invitation to China-US Youth Leaders Dialogue Program\r\n亲爱的同学们：\r\n    在全球化进程进入新时期的当下，大国间管控竞争、求同存异、务实合作已经成为共识。而国际组织作为各方沟通的重要平台，则在完善全球治理，维护人类和平与发展中扮演着重要角色。与此同时，越来越多的青年正参与到国际组织的工作中，为全球事务注入新动能。\r\n    因此，香港中文大学（深圳）学生会外联部与模拟联合国协会诚挚邀请大家参加由中",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "学生会",
+                    "address": "su@link.cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc6SU\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsl9AAA=",
+            "sentDateTime": "2024-07-10T02:06:25Z",
+            "subject": "【Unite Shanghai 2024】 订单确认函",
+            "bodyPreview": "你通常不会收到来自 support@bagevent.com 的电子邮件。了解这一点为什么很重要\r\nUnite Shanghai 2024     登录 | 帮助中心\r\n尊敬的孙雨晴 您已成功报名【Unite Shanghai 2024】\r\n活动时间：2024-07-23 08:30\r\n活动地址：上海虹口区外滩W酒店\r\n\r\n参会者     门票      状态      操作\r\n孙雨晴     学生票     正常      修改参会者信息\r\n您可以通过以下两种方式获取电子票：\r\n1、微信扫描二维码，获取",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "support=bagevent.com@email.bagevent.com",
+                    "address": "support=bagevent.com@email.bagevent.com"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc6SK\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsl8AAA=",
+            "sentDateTime": "2024-07-10T02:04:24Z",
+            "subject": "您活动订单已通过组织者的审核",
+            "bodyPreview": "你通常不会收到来自 support@bagevent.com 的电子邮件。了解这一点为什么很重要\r\nUnite Shanghai 2024     登录 | 帮助中心\r\n尊敬的孙雨晴 您申请【Unite Shanghai 2024】活动的订单已通过主办方的审核。\r\n订单号：21810595393935904768\r\n购票日期 ：2024-07-09 16:42\r\n购票者 ：孙雨晴\r\n参会者     门票      单价 （￥）  折扣 （￥）  价格 （￥）  身份证照片\r\n孙雨晴     学生票    ",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "support=bagevent.com@email.bagevent.com",
+                    "address": "support=bagevent.com@email.bagevent.com"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdc6BV\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdxsl7AAA=",
+            "sentDateTime": "2024-07-10T01:16:57Z",
+            "subject": "Invitation to submit to The 16th International Conference on Social Robotics (ICSR) + InnoBiz 2024",
+            "bodyPreview": "Dear all,\r\n\r\nYou are cordially invited to submit your research to the 16th International Conference on Social Robotics (ICSR) + InnoBiz 2024.\r\n\r\nThe 16th International Conference on Social Robotics (ICSR) + InnoBiz 2024 will bring together researchers and",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "School of Science and Engineering",
+                    "address": "sse@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdBQ+B\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdV70WAAA=",
+            "sentDateTime": "2024-07-09T09:48:40Z",
+            "subject": "Microsoft 365 安全中心: 邮件处于隔离状态",
+            "bodyPreview": "查看这些邮件\r\n1 邮件 已为你保留，以在 2024/7/9 9:22:11 (UTC) 时查看。\r\n前往安全中心的隔离页面，在收到日期后的30 天内查看这些文件。\r\n阻止的垃圾邮件\r\n发件人:    teamzoom@e.zoom.us\r\n主题:     【ビジネスリーダー必見】7月18日 オンラインイベント Zoom Experience Day Summer Virtual 開催のご案内 - お見逃しなく！\r\n日期:     2024/7/9 1:34:42\r\n查看消息            释放",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "quarantine@messaging.microsoft.com",
+                    "address": "quarantine@messaging.microsoft.com"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdBQ2a\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdV70VAAA=",
+            "sentDateTime": "2024-07-09T08:44:10Z",
+            "subject": "您的订单需等待审核",
+            "bodyPreview": "你通常不会收到来自 support@bagevent.com 的电子邮件。了解这一点为什么很重要\r\nUnite Shanghai 2024     登录 | 帮助中心\r\n尊敬的孙雨晴，您好！\r\n您购买的 【Unite Shanghai 2024】 订单需等待主办方审核。主办方审核会有延时性，您可以扫描下方二维码关注公众号，以便第一时间获取审核通知。\r\n订单号：21810595393935904768\r\n购票日期： 2024-07-09 16:42\r\n购票者：孙雨晴\r\n  *   活动网站：https://",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "support=bagevent.com@email.bagevent.com",
+                    "address": "support=bagevent.com@email.bagevent.com"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdBQvZ\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdV70UAAA=",
+            "sentDateTime": "2024-07-09T08:35:57Z",
+            "subject": "【Unite Shanghai 2024】审核拒绝",
+            "bodyPreview": "你通常不会收到来自 support@bagevent.com 的电子邮件。了解这一点为什么很重要\r\nUnite Shanghai 2024     登录 | 帮助中心\r\n尊敬的孙雨晴，我们很抱歉的通知您，\r\n您申请【Unite Shanghai 2024】活动的订单未能通过主办方的审核\r\n拒绝原因：请上传学生证有效期页面，如果学生证上没体现，请把学生证和相关offer证明文件贴成一张图上传\r\n订单号：21810584725648183296\r\n购票日期 ：2024-07-09 16:00\r\n购票者 ：孙雨",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "Unite Shanghai 2024",
+                    "address": "support@bagevent.com"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdBQus\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdV70TAAA=",
+            "sentDateTime": "2024-07-09T08:10:27Z",
+            "subject": "您的订单需等待审核",
+            "bodyPreview": "你通常不会收到来自 support@bagevent.com 的电子邮件。了解这一点为什么很重要\r\nUnite Shanghai 2024     登录 | 帮助中心\r\n尊敬的孙雨晴，您好！\r\n您购买的 【Unite Shanghai 2024】 订单需等待主办方审核。主办方审核会有延时性，您可以扫描下方二维码关注公众号，以便第一时间获取审核通知。\r\n订单号：21810584725648183296\r\n购票日期： 2024-07-09 16:00\r\n购票者：孙雨晴\r\n  *   活动网站：https://",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "Unite Shanghai 2024",
+                    "address": "support@bagevent.com"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdBQmm\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdV70SAAA=",
+            "sentDateTime": "2024-07-09T07:10:15Z",
+            "subject": "CSC6042:Advanced Database Systems_L01: CSC6042 Final Project Presentation",
+            "bodyPreview": "Dear all students,\r\n\r\nCSC6042 ADB course will hold the final project presentation this Thursday from 15:00 to 18:00. Each group will have 10 minutes (8 minutes for presentation + 2 minutes for Q&A). Please strictly control the time. Attached is an Excel s",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "洪世豪 HONG, Shihao - 220019037@link.cuhk.edu.cn",
+                    "address": "bbnoreply@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADdBQOn\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADdV70RAAA=",
+            "sentDateTime": "2024-07-09T03:57:45Z",
+            "subject": "SSE Talk | #55: Total Synthesis of Metallic Molecules",
+            "bodyPreview": "Dear all,\r\n\r\n\r\n\r\nYou are cordially invited to an academic seminar to be delivered by Prof. Jianping XIE on July 12 (Friday). Please find the details as follows.\r\n\r\n\r\nTopic: Total Synthesis of Metallic Molecules\r\n\r\nTime & Date: 10:30-11:30 AM, July 12 (Fri",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "School of Science and Engineering",
+                    "address": "sse@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUEKE\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADcopncAAA=",
+            "sentDateTime": "2024-07-08T10:08:10Z",
+            "subject": "【TTC信息发布】邀请报名参加2024年“数据要素×”大赛广东分赛（深圳站）",
+            "bodyPreview": "各位老师、同学：\r\n\r\n由国家数据局指导，广东省政务服务和数据管理局主办的2024年“数据要素×”大赛广东分赛已正式启动。大赛分为地方分赛和全国总决赛，广东分赛按照12个赛道设置赛事，各赛道赛事分为初赛、决赛两个阶段，优胜项目将参与全国大赛的角逐。其中深圳赛站负责主办科技创新、城市治理、气象服务赛道。\r\n\r\n一、“数据要素◊科技创新”赛道\r\n\r\n本赛道由南山区人民政府、市政务服务和数据管理局、市科技创新局主办，包括以下赛题。\r\n\r\nl  赛题一：数据赋能高端芯片研发制造；\r\n\r\nl  赛题二：数据赋能人工",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "Technology Transfer Centre",
+                    "address": "ttc@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUEJ0\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADcopnbAAA=",
+            "sentDateTime": "2024-07-08T09:55:34Z",
+            "subject": "【TTC信息发布】深圳市线上工业技术研究院科技成果征集",
+            "bodyPreview": "各位老师、同学：\r\n\r\n深圳市线上工业技术研究院（以下简称“线上工研院”）是由深圳市工业和信息化局、深圳市中小企业服务局联合龙岗区人民政府、深交所科技成果与知识产权交易中心有限责任公司、中国科学院深圳先进技术研究院以“线上撮合+线下服务”的模式共同打造的政产学研用平台。\r\n\r\n线上服务：由深交所科交中心负责建设，设置“我有成果”、“我有需求”、“项目精选”、“典型案例”、“i企政策”、“工研专家”等板块，充分汇聚企业技术需求、高校科研院所科技成果、全市公共服务平台等信息；将技术需求对接至线下“科技创新服务",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "Technology Transfer Centre",
+                    "address": "ttc@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUDic\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADcopnaAAA=",
+            "sentDateTime": "2024-07-08T07:32:07Z",
+            "subject": "SSE Talk | #54: Personalized Predictions of Glioblastoma Infiltration: Mathematical Models, Physics-informed Neural Networks and Multimodal Scans ",
+            "bodyPreview": "Dear all,\r\n\r\n\r\n\r\nYou are cordially invited to an academic seminar to be delivered by Prof. Zirui ZHANG on July 11 (Thursday). Please find the details as follows.\r\n\r\n\r\nTopic: Personalized Predictions of Glioblastoma Infiltration: Mathematical Models, Physi",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "School of Science and Engineering",
+                    "address": "sse@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUDSx\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADcopnZAAA=",
+            "sentDateTime": "2024-07-08T06:25:11Z",
+            "subject": "讲座邀请 | AI论文背后的故事 - PaSS系列讲座第十期",
+            "bodyPreview": "亲爱的老师们、同学们：\r\n\r\n理工学院诚挚地邀请您于2024年7月13日（周六）19:30 - 21:30参加AI论文背后的故事 - PaSS系列讲座第十期。\r\n\r\n主题：科研好奇心：CVPR 2024最佳论文与最佳学生论文背后的故事\r\n\r\n日期&时间：2024年7月13日（周六）19:30 - 21:30\r\n\r\n\r\n简介：\r\n你为什么要做科研？\r\n为什么要发论文？\r\n为什么要“卷”？\r\n\r\n你还记得自己的初心吗？\r\n你还记得曾经因为对知识的渴望而整天泡图书馆吗？\r\n你还记得曾经因为Debug而兴奋得睡不",
+            "importance": "normal",
+            "isRead": true,
+            "sender": {
+                "emailAddress": {
+                    "name": "School of Science and Engineering",
+                    "address": "sse@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUC0e\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADcopnYAAA=",
+            "sentDateTime": "2024-07-08T04:30:54Z",
+            "subject": "Correction:【SDS Topical Seminar Series】Decentralized Methods for Composite Minimax Problems",
+            "bodyPreview": "Dear all,\r\n\r\nYou are cordially invited to the School of Data Science Topical Seminar on Decentralized Methods for Composite Minimax Problems. Detailed information is as follows:\r\nSDS Topical Seminar Series\r\nTopic\r\nDecentralized Methods for Composite Minim",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "SDS Academic Events",
+                    "address": "sdsacademics@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.type": "#microsoft.graph.eventMessageRequest",
+            "@odata.etag": "W/\"CwAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUC0C\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADcopnXAAA=",
+            "sentDateTime": "2024-07-08T04:20:58Z",
+            "subject": "【SDS Topical Seminar Series】Decentralized Methods for Composite Minimax Problems",
+            "bodyPreview": "Dear all,\r\n\r\nYou are cordially invited to the School of Data Science Topical Seminar on Decentralized Methods for Composite Minimax Problems. Detailed information is as follows:\r\nSDS Topical Seminar Series\r\nTopic\r\nDecentralized Methods for Composite Minim",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "SDS Academic Events",
+                    "address": "sdsacademics@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUCsE\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADcopnWAAA=",
+            "sentDateTime": "2024-07-08T03:32:00Z",
+            "subject": "【SDS Topical Seminar Series】Decentralized Methods for Composite Minimax Problems",
+            "bodyPreview": "Dear all,\r\n\r\nYou are cordially invited to the School of Data Science Topical Seminar on Decentralized Methods for Composite Minimax Problems. Detailed information is as follows:\r\nSDS Topical Seminar Series\r\nTopic\r\nDecentralized Methods for Composite Minim",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "SDS Academic Events",
+                    "address": "sdsacademics@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.type": "#microsoft.graph.eventMessageRequest",
+            "@odata.etag": "W/\"CwAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADcUCz6\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEKAABZ7KM-PFwDTKyxKgZfi_PyAADcos68AAA=",
+            "sentDateTime": "2024-07-08T03:31:02Z",
+            "subject": "【SDS Topical Seminar Series】Decentralized Methods for Composite Minimax Problems",
+            "bodyPreview": "Dear all,\r\n\r\nYou are cordially invited to the School of Data Science Topical Seminar on Decentralized Methods for Composite Minimax Problems. Detailed information is as follows:\r\nSDS Topical Seminar Series\r\nTopic\r\nDecentralized Methods for Composite Minim",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "SDS Academic Events",
+                    "address": "sdsacademics@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADbCmpT\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADbXFihAAA=",
+            "sentDateTime": "2024-07-06T12:16:44Z",
+            "subject": "【MED Research Seminar - July 8】",
+            "bodyPreview": "Dear All,\r\n\r\nYou are cordially invited to join the MED Research Seminar to be delivered by Prof. Peng WU on July 8, 2024 (Monday). The lecture is entitled \"Development of next-generation T cell-based cancer immunotherapy\".\r\n\r\nPlease find the details as fo",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "MED Research & Innovation Office",
+                    "address": "rio_med@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADbCmXe\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADbXFigAAA=",
+            "sentDateTime": "2024-07-06T10:11:05Z",
+            "subject": "【MED Research Seminar - July 8】",
+            "bodyPreview": "Dear All,\r\n\r\nYou are cordially invited to join the MED Research Seminar to be delivered by Prof. Peng WU on July 8, 2024 (Monday).\r\n\r\nPlease find the details as follows:\r\nDate: July 8, 2024 (Monday)\r\nTime: 15:30\r\nLocation: TD102\r\nSpeaker: Prof. Peng WU\r\nH",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "MED Research & Innovation Office",
+                    "address": "rio_med@cuhk.edu.cn"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"CQAAABYAAABZ7KM/PFwDTKyxKgZfi+PyAADbCmHP\"",
+            "id": "AAMkAGVjZmFiZDMxLTg5NTItNGFiMS1iMzIxLTIyMzlmYzRkODA4MQBGAAAAAAC-srd58RxMR566nE_pBAURBwBZ7KM-PFwDTKyxKgZfi_PyAAAAAAEMAABZ7KM-PFwDTKyxKgZfi_PyAADbXFifAAA=",
+            "sentDateTime": "2024-07-06T08:56:23Z",
+            "subject": "Submission received",
+            "bodyPreview": "Your work was received!\r\n\r\nYou successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission on your My Grades page.\r\n\r\nSubmission de",
+            "importance": "normal",
+            "isRead": false,
+            "sender": {
+                "emailAddress": {
+                    "name": "bbnoreplyl@cuhk.edu.cn",
+                    "address": "bbnorepy@cuhk.edu.cn"
+                }
+            }
+        }
+    ],
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/messages?%24select=sender%2csubject%2csentDateTime%2cisRead%2cbodyPreview%2cimportance&%24top=25&%24skip=25"
+}
